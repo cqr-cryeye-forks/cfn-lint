@@ -41,6 +41,7 @@
   "AWSApplicationMigrationReadOnlyAccess": "arn:aws:iam::aws:policy/AWSApplicationMigrationReadOnlyAccess",
   "AWSApplicationMigrationReplicationServerPolicy": "arn:aws:iam::aws:policy/service-role/AWSApplicationMigrationReplicationServerPolicy",
   "AWSApplicationMigrationServiceRolePolicy": "arn:aws:iam::aws:policy/aws-service-role/AWSApplicationMigrationServiceRolePolicy",
+  "AWSApplicationMigrationVCenterClientPolicy": "arn:aws:iam::aws:policy/AWSApplicationMigrationVCenterClientPolicy",
   "AWSArtifactAccountSync": "arn:aws:iam::aws:policy/service-role/AWSArtifactAccountSync",
   "AWSAuditManagerAdministratorAccess": "arn:aws:iam::aws:policy/AWSAuditManagerAdministratorAccess",
   "AWSAuditManagerServiceRolePolicy": "arn:aws:iam::aws:policy/aws-service-role/AWSAuditManagerServiceRolePolicy",
